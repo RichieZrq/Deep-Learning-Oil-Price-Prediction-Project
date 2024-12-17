@@ -1,7 +1,3 @@
-Here is a **clean and concise GitHub README** with only the essentials:
-
----
-
 # **Crude Oil Price Forecasting Using Transformer Models**
 
 ## **Project Overview**  
